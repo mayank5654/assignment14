@@ -1,0 +1,7 @@
+D:\practic exercise\assignmet14\assignmet14\bin\Debug\assignmet14.exe.config
+D:\practic exercise\assignmet14\assignmet14\bin\Debug\assignmet14.exe
+D:\practic exercise\assignmet14\assignmet14\bin\Debug\assignmet14.pdb
+D:\practic exercise\assignmet14\assignmet14\obj\Debug\assignmet14.csproj.AssemblyReference.cache
+D:\practic exercise\assignmet14\assignmet14\obj\Debug\assignmet14.csproj.CoreCompileInputs.cache
+D:\practic exercise\assignmet14\assignmet14\obj\Debug\assignmet14.exe
+D:\practic exercise\assignmet14\assignmet14\obj\Debug\assignmet14.pdb
